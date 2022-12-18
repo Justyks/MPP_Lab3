@@ -1,0 +1,12 @@
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\bin\Debug\net6.0\DirectoryScanner.deps.json
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\bin\Debug\net6.0\DirectoryScanner.dll
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\bin\Debug\net6.0\DirectoryScanner.pdb
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.csproj.AssemblyReference.cache
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.AssemblyInfoInputs.cache
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.AssemblyInfo.cs
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.csproj.CoreCompileInputs.cache
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.dll
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\refint\DirectoryScanner.dll
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\DirectoryScanner.pdb
+C:\Users\ilyad\Documents\Ucheba\DirectoryScanner\DirectoryScanner\obj\Debug\net6.0\ref\DirectoryScanner.dll
